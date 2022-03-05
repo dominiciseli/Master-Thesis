@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-# Master thesis - Assocation rule mining with electronic health records: Exploring comorbidity diagnoses of major depressive disorder 
+# Assocation rule mining with electronic health records: Exploring comorbidity diagnoses of major depressive disorder 
 
 ## About The Project
 
