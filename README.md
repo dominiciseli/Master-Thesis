@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-# Master Thesis - Assocation rule mining with MIMIC-IV dataset: Exploring comorbidity diagnoses of major depressive disorder 
+# Master Thesis - Assocation rule mining with electronic health records: Exploring comorbidity diagnoses of major depressive disorder 
 
 ## About The Project
 
