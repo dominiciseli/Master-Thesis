@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-# Master Thesis - Assocation rule mining with electronic health records: Exploring comorbidity diagnoses of major depressive disorder 
+# Master thesis - Assocation rule mining with electronic health records: Exploring comorbidity diagnoses of major depressive disorder 
 
 ## About The Project
 
@@ -44,6 +44,6 @@ The default copyright laws apply, meaning that all rights to this source code ar
 
 Dominic Nicolas Iseli - dois2136@student.su.se
 
-Project Link: [https://github.com/dominiciseli/DAMIII_Project](https://github.com/dominiciseli/DAMIII_Project)
+Project Link: [https://github.com/dominiciseli/Master-Thesis](https://github.com/dominiciseli/Master-Thesis)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
