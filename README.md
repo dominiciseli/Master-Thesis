@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-# Assocation rule mining with electronic health records: Exploring comorbidity diagnoses of major depressive disorder 
+# Association rule mining with electronic health records: Exploring comorbidity diagnoses of major depressive disorder 
 
 ## About The Project
 
